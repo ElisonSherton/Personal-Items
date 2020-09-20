@@ -1,2 +1,3 @@
-# Resume
-Personal Resume
+# Personal Details
+
+A repo to store personal items like images and resume.
